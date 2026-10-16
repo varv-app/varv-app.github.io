@@ -39,7 +39,6 @@ header img { width: 72px; height: 72px; border-radius: 16px; box-shadow: 0 6px 2
   .icon-dark { display: block; }
 }
 .wordmark { font-weight: 800; letter-spacing: 0.22em; font-size: 22px; margin: 0; }
-.tagline { margin: 2px 0 0; color: var(--secondary); font-size: 15px; }
 h1 { font-size: 34px; line-height: 1.15; letter-spacing: -0.02em; margin: 0 0 12px; }
 h2 { font-size: 20px; margin: 0 0 6px; }
 p { margin: 0 0 14px; }
